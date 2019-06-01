@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #C4C4C4FF
+}
+table{
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: white;
+  }
+caption{
+    font-size: 25px;
+    padding: 5px;
+}
+td, th{
+    border: 1px solid black;
+    margin: 5px;
+}
+th{
+	text-align: center;
+    background: rgb(240, 202, 14);
+}
+img{
+    max-height: 100px;
+    max-width: 100px;
+}
